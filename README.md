@@ -13,7 +13,9 @@ Build a website to showcase the following:
 ### Technologies Used
 
 . HTML
+<br>
 . CSS
+<br>
 . Javascript
 
 ## Website Homepage
