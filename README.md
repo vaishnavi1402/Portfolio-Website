@@ -5,18 +5,18 @@ This is my portfolio website created using HTML, CSS, and Javascript.
 ## Website Features
 
 Build a website to showcase the following:
-<br>
-. My technical skill set
-<br>
-. My Projects
+<ol>
+  <li>My Technical Skill Set</li>
+  <li>My Projects</li>
+</ol>
 
 ### Technologies Used
+<ol>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+</ol>
 
-. HTML
-<br>
-. CSS
-<br>
-. Javascript
 
 ## Website Homepage
 
